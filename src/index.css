@@ -1,0 +1,41 @@
+header{
+  height: 90px;
+  background-color: rgb(39, 39, 39);
+  color: white;
+}
+
+.centro{
+  display: flex;
+  justify-content: center;
+}
+
+.titulo{
+  display: flex;
+  justify-content: center;
+}
+
+img{
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  height: 600px;
+}
+
+footer{
+  background-color: rgb(39, 39, 39);
+  color: white;
+  width: 100%;
+  height: 200px;
+}
+
+h2, p{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.h1-cont{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
